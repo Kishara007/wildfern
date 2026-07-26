@@ -129,7 +129,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full z-[10] pointer-events-none"
       >
         <Image
-          src="/Background Layer.jpg"
+          src="/background-layer.jpg"
           alt="Wildfern Scenery Background"
           fill
           priority
@@ -165,7 +165,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full z-[40] pointer-events-none flex items-center justify-center -translate-x-6 sm:-translate-x-20 md:-translate-x-28 -translate-y-4 sm:translate-y-20 md:translate-y-48"
       >
         <Image
-          src="/big ship.png"
+          src="/big-ship.png"
           alt="Foreground Big Ship"
           fill
           priority
