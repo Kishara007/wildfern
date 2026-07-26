@@ -2,8 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Wildfern | 3D Parallax Experience",
-  description: "A smooth, modern, minimalist 3D parallax scroll experience for Wildfern.",
+  title: "Wildfern",
+  description: "Wildfern Luxury Resort & Sanctuary. Guanacaste Coast.",
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
